@@ -1,0 +1,26 @@
+body{
+    background-image: url("images/diabetes_op_img.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.result-wrapper{
+    background-color: azure;
+    margin: 20px auto;
+    color: #088178;
+    font-weight: 700;
+    margin-top: 255px;
+    margin-left: 450px;
+    font-size: 200%;
+    padding: 40px;
+    text-align: center;
+    width: 50%;   
+    border: 3px solid black;
+}
+
+.para-result{
+    position: relative;
+    vertical-align: middle;
+    
+}
